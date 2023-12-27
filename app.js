@@ -1,5 +1,6 @@
 /**
- * Randomly changes the container's background color and displays the rgb value.
+ * Changes the container's background to a random color and displays the new
+ * rgb value.
  *
  * @format
  * @param {Event} e - The event parameter.
